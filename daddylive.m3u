@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-channels-epg.xml"
 #EXTINF:-1 tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="Türkiye Kanalları",beIN SPORTS 1 Turkey
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02Mi9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="Beinsports.2.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-2.png" group-title="Türkiye Kanalları",beIN SPORTS 2 Turkey
@@ -9,7 +9,7 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02Ny9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="beINSports.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" group-title="Amerika Birleşik Devletleri Kanalları",BeIN SPORTS USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MjUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Katar" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-hd.png" group-title="Katar Kanalları",BeIN Sports HD Qatar
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Katar" tvg-id="BEIN.SPORTS.HD.QATAR.QA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-hd.png" group-title="Katar Kanalları",BeIN Sports HD Qatar
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01NzgvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="beIN.SPORTS.1.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1-france.png" group-title="Fransa Kanalları",beIN SPORTS 1 France
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTYvbW9uby5tM3U4.m3u8
@@ -23,13 +23,13 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Avustralya" tvg-id="beINSports3.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-3.png" group-title="Avustralya Kanalları",beIN SPORTS Australia 3
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-xtra.png" group-title="Diğer Spor Kanalları",beIN SPORTS XTRA 1
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-xtra.png" group-title="Diğer Kanalları",beIN SPORTS XTRA 1
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="beIN_SPORTS_XTRA2_Digital_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-xtra.png" group-title="Diğer Spor Kanalları",beIN SPORTS XTRA 2
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="beIN_SPORTS_XTRA2_Digital_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-xtra.png" group-title="Diğer Kanalları",beIN SPORTS XTRA 2
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00My9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-en-espa.png" group-title="Diğer Spor Kanalları",beIN SPORTS en Español
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.EN.ESPAOL.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-en-espa.png" group-title="Diğer Kanalları",beIN SPORTS en Español
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-en-espa.png" group-title="Diğer Spor Kanalları",beIN SPORTS en Espa単ol
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.EN.ESPAOL.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-en-espa.png" group-title="Diğer Kanalları",beIN SPORTS en Espa単ol
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="beIN.SPORTS.MAX.10.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-max-10-france.png" group-title="Fransa Kanalları",beIN Sports MAX 10 France
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01MDAvbW9uby5tM3U4.m3u8
@@ -45,43 +45,43 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTgvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="beIN.SPORTS.MAX.9.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-max-9-france.png" group-title="Fransa Kanalları",beIN Sports MAX 9 France
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="Diğer Spor Kanalları",beIN Sports MENA 1
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.1.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="Diğer Kanalları",beIN Sports MENA 1
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-2.png" group-title="Diğer Spor Kanalları",beIN Sports MENA 2
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.2.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-2.png" group-title="Diğer Kanalları",beIN Sports MENA 2
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-3.png" group-title="Diğer Spor Kanalları",beIN Sports MENA 3
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.3.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-3.png" group-title="Diğer Kanalları",beIN Sports MENA 3
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-4.png" group-title="Diğer Spor Kanalları",beIN Sports MENA 4
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.4.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-4.png" group-title="Diğer Kanalları",beIN Sports MENA 4
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-5.png" group-title="Diğer Spor Kanalları",beIN Sports MENA 5
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.5.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-5.png" group-title="Diğer Kanalları",beIN Sports MENA 5
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" group-title="Diğer Spor Kanalları",beIN Sports MENA 6
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.6.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" group-title="Diğer Kanalları",beIN Sports MENA 6
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-7.png" group-title="Diğer Spor Kanalları",beIN Sports MENA 7
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.7.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-7.png" group-title="Diğer Kanalları",beIN Sports MENA 7
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-8.png" group-title="Diğer Spor Kanalları",beIN Sports MENA 8
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.8.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-8.png" group-title="Diğer Kanalları",beIN Sports MENA 8
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-9.png" group-title="Diğer Spor Kanalları",beIN Sports MENA 9
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.9.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-9.png" group-title="Diğer Kanalları",beIN Sports MENA 9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-1.png" group-title="Diğer Spor Kanalları",beIN Sports MENA English 1
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.ENGLISH.1.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-1.png" group-title="Diğer Kanalları",beIN Sports MENA English 1
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-2.png" group-title="Diğer Spor Kanalları",beIN Sports MENA English 2
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.ENGLISH.2.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-2.png" group-title="Diğer Kanalları",beIN Sports MENA English 2
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-3.png" group-title="Diğer Spor Kanalları",beIN Sports MENA English 3
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.ENGLISH.3.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-3.png" group-title="Diğer Kanalları",beIN Sports MENA English 3
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ni9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-premium-1.png" group-title="Diğer Spor Kanalları",beIN Sports MENA Premium 1
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.PREMIUM.1.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-premium-1.png" group-title="Diğer Kanalları",beIN Sports MENA Premium 1
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-premium-2.png" group-title="Diğer Spor Kanalları",beIN Sports MENA Premium 2
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.PREMIUM.2.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-premium-2.png" group-title="Diğer Kanalları",beIN Sports MENA Premium 2
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-premium-3.png" group-title="Diğer Spor Kanalları",beIN Sports MENA Premium 3
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="BEIN.SPORTS.MENA.PREMIUM.3.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-premium-3.png" group-title="Diğer Kanalları",beIN Sports MENA Premium 3
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-1-afrique.png" group-title="Afrika Kanalları",Canal+ Sport 1 Afrique
+#EXTINF:-1 tvg-language="Afrikaanca" tvg-country="Afrika" tvg-id="CANAL.SPORT.1.AFRIQUE.AF" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-1-afrique.png" group-title="Afrika Kanalları",Canal+ Sport 1 Afrique
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00ODYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-2-afrique.png" group-title="Afrika Kanalları",Canal+ Sport 2 Afrique
+#EXTINF:-1 tvg-language="Afrikaanca" tvg-country="Afrika" tvg-id="CANAL.SPORT.2.AFRIQUE.AF" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-2-afrique.png" group-title="Afrika Kanalları",Canal+ Sport 2 Afrique
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00ODcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-4-afrique.png" group-title="Afrika Kanalları",Canal+ Sport 4 Afrique
+#EXTINF:-1 tvg-language="Afrikaanca" tvg-country="Afrika" tvg-id="CANAL.SPORT.4.AFRIQUE.AF" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-4-afrique.png" group-title="Afrika Kanalları",Canal+ Sport 4 Afrique
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00ODkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-5-afrique.png" group-title="Afrika Kanalları",Canal+ Sport 5 Afrique
+#EXTINF:-1 tvg-language="Afrikaanca" tvg-country="Afrika" tvg-id="CANAL.SPORT.5.AFRIQUE.AF" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-5-afrique.png" group-title="Afrika Kanalları",Canal+ Sport 5 Afrique
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Almanca" tvg-country="Almanya" tvg-id="3sat.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/3sat.png" group-title="Almanya Kanalları",3sat DE
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03MjYvbW9uby5tM3U4.m3u8
@@ -171,7 +171,7 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzA3L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="C-SPAN.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/c-span-1.png" group-title="Amerika Birleşik Devletleri Kanalları",C SPAN 1
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NTAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbs-sports-golazo.png" group-title="Amerika Birleşik Devletleri Kanalları",CBS Sports Golazo
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="CBS.SPORTS.GOLAZO.US" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbs-sports-golazo.png" group-title="Amerika Birleşik Devletleri Kanalları",CBS Sports Golazo
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MTAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbs-sports-network.png" group-title="Amerika Birleşik Devletleri Kanalları",CBS Sports Network (CBSSN)
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDgvbW9uby5tM3U4.m3u8
@@ -179,17 +179,15 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNTIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/syfy-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",CBSNY USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cmt.png" group-title="Amerika Birleşik Devletleri Kanalları",CMT USA
-https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQ3L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="CNBC.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",CNBC USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cnn.png" group-title="Amerika Birleşik Devletleri Kanalları",CNN USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQ1L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="COZITV.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cozi-tv.png" group-title="Amerika Birleşik Devletleri Kanalları",COZI TV USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NDgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cw.png" group-title="Amerika Birleşik Devletleri Kanalları",CW PIX 11 USA
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="CW.PIX.11.USA.US" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cw.png" group-title="Amerika Birleşik Devletleri Kanalları",CW PIX 11 USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgwL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cw.png" group-title="Amerika Birleşik Devletleri Kanalları",CW USA
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="CW.USA.US" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cw.png" group-title="Amerika Birleşik Devletleri Kanalları",CW USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cartoon-network.png" group-title="Amerika Birleşik Devletleri Kanalları",Cartoon Network
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzM5L21vbm8ubTN1OA==.m3u8
@@ -245,8 +243,6 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fuse-tv.png" group-title="Amerika Birleşik Devletleri Kanalları",FUSE TV USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjc5L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="FX.Movie.Channel.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="Amerika Birleşik Devletleri Kanalları",FX Movie Channel
-https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODEvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",FX USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fxx-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",FXX USA
@@ -255,6 +251,8 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjY1L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="FanDuel.Sports.Network.Midwest.St..Louis.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fanduel-sports-network-midwest.png" group-title="Amerika Birleşik Devletleri Kanalları",FanDuel Sports Network Midwest
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04OTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="FanDuel.Sports.Network.San.Diego.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fanduel-sports-network-sun.png" group-title="Amerika Birleşik Devletleri Kanalları",FanDuel Sports Network San Diego
+https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MDEvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="FanDuel.Sports.Network.SoCal.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fanduel-sports-network-socal.png" group-title="Amerika Birleşik Devletleri Kanalları",FanDuel Sports Network SoCal
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTAyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Fanduel.Sports.Sun.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fanduel-sports-network-sun.png" group-title="Amerika Birleşik Devletleri Kanalları",FanDuel Sports Network Sun
@@ -275,16 +273,10 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDEvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Golf.Channel.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/golf-channel.png" group-title="Amerika Birleşik Devletleri Kanalları",GOLF Channel USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Galavision.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/galavision-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",Galavisión USA
-https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzQzL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Galavision.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/galavision-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",Galavisi贸n USA
-https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzQzL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/game-show-network.png" group-title="Amerika Birleşik Devletleri Kanalları",Game Show Network
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzE5L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Great.American.Family.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbc.png" group-title="Amerika Birleşik Devletleri Kanalları",Great American Family Channel
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02OTkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Grit.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/grit-channel.png" group-title="Amerika Birleşik Devletleri Kanalları",Grit Channel
-https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzUyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-comedy-us.png" group-title="Amerika Birleşik Devletleri Kanalları",HBO Comedy USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNjkwL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-family-us.png" group-title="Amerika Birleşik Devletleri Kanalları",HBO Family USA
@@ -335,7 +327,7 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMjcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mtv.png" group-title="Amerika Birleşik Devletleri Kanalları",MTV USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzcxL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/my9tv-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",MY9TV USA
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="MY9TV.USA.US" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/my9tv-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",MY9TV USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02NTQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Magnolia.-.East.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/magnolia-network.png" group-title="Amerika Birleşik Devletleri Kanalları",Magnolia Network
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTkvbW9uby5tM3U4.m3u8
@@ -355,12 +347,10 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NTUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc-sports-philadelphia.png" group-title="Amerika Birleşik Devletleri Kanalları",NBC Sports Philadelphia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NzcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc-sports-washington.png" group-title="Amerika Birleşik Devletleri Kanalları",NBC Sports Washington
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="NBC.SPORTS.WASHINGTON.US" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc-sports-washington.png" group-title="Amerika Birleşik Devletleri Kanalları",NBC Sports Washington
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzc4L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="NBC.Sports.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",NBC USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01My9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc10-philadelphia.png" group-title="Amerika Birleşik Devletleri Kanalları",NBC10 Philadelphia
-https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNzcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="NBC.(WNBC).New.York,.NY.us   " tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbcny-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",NBCNY USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="New.England.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nesn-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",NESN USA
@@ -387,11 +377,11 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzEvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/oxygen-true-crime.png" group-title="Amerika Birleşik Devletleri Kanalları",Oxygen True Crime
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/pdc-tv.png" group-title="Amerika Birleşik Devletleri Kanalları",PDC TV
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="PDC.TV.US" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/pdc-tv.png" group-title="Amerika Birleşik Devletleri Kanalları",PDC TV
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00My9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="POP.-.East.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/pop-tv-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",POP TV USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02NTMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/pac-12-network-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",Pac-12 Network USA
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="PAC12.NETWORK.USA.US" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/pac-12-network-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",Pac-12 Network USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yODcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/paramount-network.png" group-title="Amerika Birleşik Devletleri Kanalları",Paramount Network
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzM0L21vbm8ubTN1OA==.m3u8
@@ -427,8 +417,6 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIxL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Spectrum.Sportsnet.Lakers.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/spectrum-sportsnet-la-us.png" group-title="Amerika Birleşik Devletleri Kanalları",Spectrum Sportsnet LA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzY0L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sportsnet-new-york.png" group-title="Amerika Birleşik Devletleri Kanalları",SportsNet New York (SNY)
-https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="SportsNet.Pittsburgh.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sportsnet-pittsburgh.png" group-title="Amerika Birleşik Devletleri Kanalları",SportsNet Pittsburgh
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTIyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sportsnet-ontario.png" group-title="Amerika Birleşik Devletleri Kanalları",Sportsnet Ontario
@@ -465,7 +453,7 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MC9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/the-food-network-us.png" group-title="Amerika Birleşik Devletleri Kanalları",The Food Network
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/the-hallmark-us.png" group-title="Amerika Birleşik Devletleri Kanalları",The Hallmark
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="THE.HALLMARK.US" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/the-hallmark-us.png" group-title="Amerika Birleşik Devletleri Kanalları",The Hallmark
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02ODAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="Hallmark.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/the-hallmark-channel-us.png" group-title="Amerika Birleşik Devletleri Kanalları",The Hallmark Channel
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjAvbW9uby5tM3U4.m3u8
@@ -495,21 +483,19 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01OTgvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Amerika Birleşik Devletleri" tvg-id="YES.Network.us   " tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/yes-network-usa.png" group-title="Amerika Birleşik Devletleri Kanalları",YES Network USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-extra.png" group-title="Arjantin Kanalları",ESPN Extra Argentina
+#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="ESPN.EXTRA.ARGENTINA.AR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-extra.png" group-title="Arjantin Kanalları",ESPN Extra Argentina
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzk4L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-premium.png" group-title="Arjantin Kanalları",ESPN Premium Argentina
+#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="ESPN.PREMIUM.ARGENTINA.AR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-premium.png" group-title="Arjantin Kanalları",ESPN Premium Argentina
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zODcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-sur.png" group-title="Arjantin Kanalları",ESPN SUR
+#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="ESPN.SUR.AR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-sur.png" group-title="Arjantin Kanalları",ESPN SUR
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xNDkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-2-sur.png" group-title="Arjantin Kanalları",ESPN2 SUR
+#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="ESPN2.SUR.AR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-2-sur.png" group-title="Arjantin Kanalları",ESPN2 SUR
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xNTAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="FoxSports2(Argentina).ar" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-2-ar.png" group-title="Arjantin Kanalları",Fox Sports 2 Argentina
-https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03ODgvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="FoxSports3(Argentina).ar" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-3-ar.png" group-title="Arjantin Kanalları",Fox Sports 3 Argentina
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzg5L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="FOXSPORTS.ar" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-ar.png" group-title="Arjantin Kanalları",Fox Sports Argentina
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-ar.png" group-title="Arjantin Kanalları",TNT Sports Argentina
+#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="TNT.SPORTS.ARGENTINA.AR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-ar.png" group-title="Arjantin Kanalları",TNT Sports Argentina
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zODgvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İspanyolca" tvg-country="Arjantin" tvg-id="Canal.TyC.Sports.ar" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tyc-sports-ar.png" group-title="Arjantin Kanalları",TYC Sports Argentina
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NDYvbW9uby5tM3U4.m3u8
@@ -523,33 +509,33 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MjMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Avustralya" tvg-id="FoxSports506.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-506.png" group-title="Avustralya Kanalları",FOX Sports 506 AU
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MjQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Avustralya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-507.png" group-title="Avustralya Kanalları",FOX Sports 507 AU
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Avustralya" tvg-id="FOX.SPORTS.507.AU.AU" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-507.png" group-title="Avustralya Kanalları",FOX Sports 507 AU
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MjUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Avustralya" tvg-id="FoxCricket.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-cricket.png" group-title="Avustralya Kanalları",Fox Cricket
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zNjkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="Birleşik Arap Emirlikleri Kanalları",Abu Dhabi Sports 1 Premium
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="ABU.DHABI.SPORTS.1.PREMIUM.AE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="Birleşik Arap Emirlikleri Kanalları",Abu Dhabi Sports 1 Premium
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjA5L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="Birleşik Arap Emirlikleri Kanalları",Abu Dhabi Sports 1 UAE
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="ABU.DHABI.SPORTS.1.UAE.AE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="Birleşik Arap Emirlikleri Kanalları",Abu Dhabi Sports 1 UAE
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MDAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="Birleşik Arap Emirlikleri Kanalları",Abu Dhabi Sports 2 Premium
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="ABU.DHABI.SPORTS.2.PREMIUM.AE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="Birleşik Arap Emirlikleri Kanalları",Abu Dhabi Sports 2 Premium
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjEwL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="Birleşik Arap Emirlikleri Kanalları",Abu Dhabi Sports 2 UAE
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="ABU.DHABI.SPORTS.2.UAE.AE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="Birleşik Arap Emirlikleri Kanalları",Abu Dhabi Sports 2 UAE
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjAxL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dubai-racing.png" group-title="Birleşik Arap Emirlikleri Kanalları",Dubai Racing 1 UAE
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="DUBAI.RACING.1.UAE.AE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dubai-racing.png" group-title="Birleşik Arap Emirlikleri Kanalları",Dubai Racing 1 UAE
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjA3L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dubai-sports.png" group-title="Birleşik Arap Emirlikleri Kanalları",Dubai Sports 1 UAE
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="DUBAI.SPORTS.1.UAE.AE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dubai-sports.png" group-title="Birleşik Arap Emirlikleri Kanalları",Dubai Sports 1 UAE
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjA0L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dubai-sports.png" group-title="Birleşik Arap Emirlikleri Kanalları",Dubai Sports 2 UAE
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="DUBAI.SPORTS.2.UAE.AE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dubai-sports.png" group-title="Birleşik Arap Emirlikleri Kanalları",Dubai Sports 2 UAE
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjA1L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dubai-sports.png" group-title="Birleşik Arap Emirlikleri Kanalları",Dubai Sports 3 UAE
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="DUBAI.SPORTS.3.UAE.AE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dubai-sports.png" group-title="Birleşik Arap Emirlikleri Kanalları",Dubai Sports 3 UAE
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjA2L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/starzplay.png" group-title="Birleşik Arap Emirlikleri Kanalları",StarzPlay CricLife 1 HD
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="STARZPLAY.CRICLIFE.1.HD.AE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/starzplay.png" group-title="Birleşik Arap Emirlikleri Kanalları",StarzPlay CricLife 1 HD
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjg0L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/starzplay.png" group-title="Birleşik Arap Emirlikleri Kanalları",StarzPlay CricLife 2 HD
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="STARZPLAY.CRICLIFE.2.HD.AE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/starzplay.png" group-title="Birleşik Arap Emirlikleri Kanalları",StarzPlay CricLife 2 HD
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgzL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/starzplay.png" group-title="Birleşik Arap Emirlikleri Kanalları",StarzPlay CricLife 3 HD
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="STARZPLAY.CRICLIFE.3.HD.AE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/starzplay.png" group-title="Birleşik Arap Emirlikleri Kanalları",StarzPlay CricLife 3 HD
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yODIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/yas-tv-uae.png" group-title="Birleşik Arap Emirlikleri Kanalları",Yas TV UAE
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Birleşik Arap Emirlikleri" tvg-id="YAS.TV.UAE.AE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/yas-tv-uae.png" group-title="Birleşik Arap Emirlikleri Kanalları",Yas TV UAE
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjA5L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Birleşik Krallık" tvg-id="5.USA.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/5-usa.png" group-title="Birleşik Krallık Kanalları",5 USA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zNjAvbW9uby5tM3U4.m3u8
@@ -587,7 +573,7 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNTIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Birleşik Krallık" tvg-id="ITV4.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/itv-4-uk.png" group-title="Birleşik Krallık Kanalları",ITV 4 UK
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zNTMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Birleşik Krallık" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/laligatv-uk.png" group-title="Birleşik Krallık Kanalları",LaLigaTV UK
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Birleşik Krallık" tvg-id="LALIGATV.UK.UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/laligatv-uk.png" group-title="Birleşik Krallık Kanalları",LaLigaTV UK
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzYvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Birleşik Krallık" tvg-id="LFCTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/liverpool-tv.png" group-title="Birleşik Krallık Kanalları",Liverpool TV (LFC TV)
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MjYvbW9uby5tM3U4.m3u8
@@ -677,7 +663,7 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01NTAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Birleşik Krallık" tvg-id="ViaplayXtra.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/viaplay-xtra-uk.png" group-title="Birleşik Krallık Kanalları",Viaplay Xtra UK
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01OTcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Boşnakça" tvg-country="Bosna Hersek" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1.png" group-title="Bosna Hersek Kanalları",Arena Sport 1 BiH
+#EXTINF:-1 tvg-language="Boşnakça" tvg-country="Bosna Hersek" tvg-id="ARENA.SPORT.1.BIH.BA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1.png" group-title="Bosna Hersek Kanalları",Arena Sport 1 BiH
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01NzkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Portekizce" tvg-country="Brezilya" tvg-id="Bandsports.HD.br" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/band-sports.png" group-title="Brezilya Kanalları",Bandsports Brazil
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzUvbW9uby5tM3U4.m3u8
@@ -761,7 +747,7 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODA0L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="Danca" tvg-country="Danimarka" tvg-id="MTV.dk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mtv.png" group-title="Danimarka Kanalları",MTV Denmark
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODA2L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Danca" tvg-country="Danimarka" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/see-denmark.png" group-title="Danimarka Kanalları",SEE Denmark
+#EXTINF:-1 tvg-language="Danca" tvg-country="Danimarka" tvg-id="SEE.DENMARK.DK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/see-denmark.png" group-title="Danimarka Kanalları",SEE Denmark
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODExL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="Danca" tvg-country="Danimarka" tvg-id="TV2bornholm(src01).dk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tv2-bornholm.png" group-title="Danimarka Kanalları",TV2 Bornholm Denmark
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODA3L21vbm8ubTN1OA==.m3u8
@@ -769,7 +755,7 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MTcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Danca" tvg-country="Danimarka" tvg-id="TV2Sport(src01).dk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tv2-sport-denmark.png" group-title="Danimarka Kanalları",TV2 Sport Denmark
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODEwL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Danca" tvg-country="Danimarka" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tv2-sport-x-denmark.png" group-title="Danimarka Kanalları",TV2 Sport X Denmark
+#EXTINF:-1 tvg-language="Danca" tvg-country="Danimarka" tvg-id="TV2.SPORT.X.DENMARK.DK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tv2-sport-x-denmark.png" group-title="Danimarka Kanalları",TV2 Sport X Denmark
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODA4L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="Danca" tvg-country="Danimarka" tvg-id="TV2Zulu(src01).dk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tv2-zulu-denmark.png" group-title="Danimarka Kanalları",TV2 Zulu
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MTgvbW9uby5tM3U4.m3u8
@@ -779,7 +765,7 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MDkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Danca" tvg-country="Danimarka" tvg-id="TV3plus(src01).dk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tv3plus-denmark.png" group-title="Danimarka Kanalları",TV3+ Denmark
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MTkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Diğer Spor" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/stream-771.png" group-title="Diğer Spor Kanalları",Stream 771
+#EXTINF:-1 tvg-language="Çeşitli" tvg-country="Diğer" tvg-id="STREAM.771.OT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/stream-771.png" group-title="Diğer Kanalları",Stream 771
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzEvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="CANAL+.MOTOGP.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus.png" group-title="Fransa Kanalları",CANAL+ MotoGP France
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNzEvbW9uby5tM3U4.m3u8
@@ -807,77 +793,77 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMjAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tf1-fr.png" group-title="Fransa Kanalları",TF1 France
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 1
+#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="TENNIS.1.FR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 1
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 15
+#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="TENNIS.15.FR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 15
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzE0L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 2
+#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="TENNIS.2.FR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 2
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 3
+#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="TENNIS.3.FR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 3
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 4
+#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="TENNIS.4.FR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 4
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 5
+#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="TENNIS.5.FR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 5
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 6
+#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="TENNIS.6.FR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 6
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 7
+#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="TENNIS.7.FR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 7
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 8
+#EXTINF:-1 tvg-language="Fransızca" tvg-country="Fransa" tvg-id="TENNIS.8.FR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="Fransa Kanalları",Tennis+ 8
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="M-Net.HD.za" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/m-net.png" group-title="Güney Afrika Kanalları",DSTV M-Net
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MjcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="Kyk.NET.&amp;.Kie.HD.za" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/kyknet-and-kie.png" group-title="Güney Afrika Kanalları",DSTV kykNET & kie
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MjgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-action.png" group-title="Güney Afrika Kanalları",SuperSport Action
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="SUPERSPORT.ACTION.ZA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-action.png" group-title="Güney Afrika Kanalları",SuperSport Action
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MjAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-cricket.png" group-title="Güney Afrika Kanalları",SuperSport Cricket
-https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzY4L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-golf.png" group-title="Güney Afrika Kanalları",SuperSport Golf
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="SUPERSPORT.CRICKET.ZA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-cricket.png" group-title="Güney Afrika Kanalları",SuperSport Cricket
+https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNjgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="SUPERSPORT.GOLF.ZA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-golf.png" group-title="Güney Afrika Kanalları",SuperSport Golf
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MjIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-grandstand.png" group-title="Güney Afrika Kanalları",SuperSport Grandstand
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="SUPERSPORT.GRANDSTAND.ZA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-grandstand.png" group-title="Güney Afrika Kanalları",SuperSport Grandstand
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-laliga.png" group-title="Güney Afrika Kanalları",SuperSport LaLiga
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="SUPERSPORT.LALIGA.ZA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-laliga.png" group-title="Güney Afrika Kanalları",SuperSport LaLiga
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MTUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-maximo-1.png" group-title="Güney Afrika Kanalları",SuperSport MaXimo 1
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="SUPERSPORT.MAXIMO.1.ZA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-maximo-1.png" group-title="Güney Afrika Kanalları",SuperSport MaXimo 1
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcyL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-psl.png" group-title="Güney Afrika Kanalları",SuperSport PSL
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="SUPERSPORT.PSL.ZA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-psl.png" group-title="Güney Afrika Kanalları",SuperSport PSL
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-premier-league.png" group-title="Güney Afrika Kanalları",SuperSport Premier league
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="SUPERSPORT.PREMIER.LEAGUE.ZA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-premier-league.png" group-title="Güney Afrika Kanalları",SuperSport Premier league
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MTQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-rugby.png" group-title="Güney Afrika Kanalları",SuperSport Rugby
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="SUPERSPORT.RUGBY.ZA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-rugby.png" group-title="Güney Afrika Kanalları",SuperSport Rugby
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MjEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-tennis.png" group-title="Güney Afrika Kanalları",SuperSport Tennis
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="SUPERSPORT.TENNIS.ZA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-tennis.png" group-title="Güney Afrika Kanalları",SuperSport Tennis
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MjMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-variety-1.png" group-title="Güney Afrika Kanalları",SuperSport Variety 1
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="SUPERSPORT.VARIETY.1.ZA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-variety-1.png" group-title="Güney Afrika Kanalları",SuperSport Variety 1
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-variety-3.png" group-title="Güney Afrika Kanalları",SuperSport Variety 3
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="SUPERSPORT.VARIETY.3.ZA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-variety-3.png" group-title="Güney Afrika Kanalları",SuperSport Variety 3
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MTgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-variety-4.png" group-title="Güney Afrika Kanalları",SuperSport Variety 4
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="SUPERSPORT.VARIETY.4.ZA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-variety-4.png" group-title="Güney Afrika Kanalları",SuperSport Variety 4
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-football.png" group-title="Güney Afrika Kanalları",Supersport Football
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="Güney Afrika" tvg-id="SUPERSPORT.FOOTBALL.ZA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-football.png" group-title="Güney Afrika Kanalları",Supersport Football
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01Ni9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-language="Hintçe" tvg-country="Hindistan" tvg-id="STAR.SPORTS.1.in" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/star-sports-1-in.png" group-title="Hindistan Kanalları",Star Sports 1 IN
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNjcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Hintçe" tvg-country="Hindistan" tvg-id="STAR.SPORTS.1.HINDI.in" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/star-sports-1-hindi-in.png" group-title="Hindistan Kanalları",Star Sports Hindi IN
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yNjgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Hollandaca" tvg-country="Hollanda" tvg-id="ESPN.1.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-1.png" group-title="Hollanda Kanalları",ESPN 1 NL
+#EXTINF:-1 tvg-language="Felemenkçe" tvg-country="Hollanda" tvg-id="ESPN.1.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-1.png" group-title="Hollanda Kanalları",ESPN 1 NL
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Hollandaca" tvg-country="Hollanda" tvg-id="ESPN.2.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-2.png" group-title="Hollanda Kanalları",ESPN 2 NL
+#EXTINF:-1 tvg-language="Felemenkçe" tvg-country="Hollanda" tvg-id="ESPN.2.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-2.png" group-title="Hollanda Kanalları",ESPN 2 NL
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Hollandaca" tvg-country="Hollanda" tvg-id="RTL.7.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rtl7-netherlands.png" group-title="Hollanda Kanalları",RTL7 Netherlandss
+#EXTINF:-1 tvg-language="Felemenkçe" tvg-country="Hollanda" tvg-id="RTL.7.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rtl7-netherlands.png" group-title="Hollanda Kanalları",RTL7 Netherlandss
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zOTAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Hollandaca" tvg-country="Hollanda" tvg-id="SBS.6.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sbs6-nl.png" group-title="Hollanda Kanalları",SBS6 NL
+#EXTINF:-1 tvg-language="Felemenkçe" tvg-country="Hollanda" tvg-id="SBS.6.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sbs6-nl.png" group-title="Hollanda Kanalları",SBS6 NL
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04ODMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Hollandaca" tvg-country="Hollanda" tvg-id="Veronica.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/veronica-nl.png" group-title="Hollanda Kanalları",Veronica NL Netherlandss
+#EXTINF:-1 tvg-language="Felemenkçe" tvg-country="Hollanda" tvg-id="Veronica.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/veronica-nl.png" group-title="Hollanda Kanalları",Veronica NL Netherlandss
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Hollandaca" tvg-country="Hollanda" tvg-id="Ziggo.Sport.2.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ziggo-sport-2-nl.png" group-title="Hollanda Kanalları",Ziggo Sport 2 NL
+#EXTINF:-1 tvg-language="Felemenkçe" tvg-country="Hollanda" tvg-id="Ziggo.Sport.2.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ziggo-sport-2-nl.png" group-title="Hollanda Kanalları",Ziggo Sport 2 NL
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOTgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Hollandaca" tvg-country="Hollanda" tvg-id="Ziggo.Sport.4.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ziggo-sport-4-nl.png" group-title="Hollanda Kanalları",Ziggo Sport 4 NL
+#EXTINF:-1 tvg-language="Felemenkçe" tvg-country="Hollanda" tvg-id="Ziggo.Sport.4.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ziggo-sport-4-nl.png" group-title="Hollanda Kanalları",Ziggo Sport 4 NL
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zOTYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Hollandaca" tvg-country="Hollanda" tvg-id="Ziggo.Sport.5.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ziggo-sport-5-nl.png" group-title="Hollanda Kanalları",Ziggo Sport 5 NL
+#EXTINF:-1 tvg-language="Felemenkçe" tvg-country="Hollanda" tvg-id="Ziggo.Sport.5.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ziggo-sport-5-nl.png" group-title="Hollanda Kanalları",Ziggo Sport 5 NL
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Hollandaca" tvg-country="Hollanda" tvg-id="Ziggo.Sport.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ziggo-sport-nl.png" group-title="Hollanda Kanalları",Ziggo Sport NL
+#EXTINF:-1 tvg-language="Felemenkçe" tvg-country="Hollanda" tvg-id="Ziggo.Sport.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ziggo-sport-nl.png" group-title="Hollanda Kanalları",Ziggo Sport NL
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zOTMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Hırvatça" tvg-country="Hırvatistan" tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1.png" group-title="Hırvatistan Kanalları",Arena Sport 1 Croatia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MzIvbW9uby5tM3U4.m3u8
@@ -887,9 +873,9 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MzQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Hırvatça" tvg-country="Hırvatistan" tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-4.png" group-title="Hırvatistan Kanalları",Arena Sport 4 Croatia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01ODAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Hırvatça" tvg-country="Hırvatistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/maxsport1-crotia.png" group-title="Hırvatistan Kanalları",Max Sport 1 Croatia
+#EXTINF:-1 tvg-language="Hırvatça" tvg-country="Hırvatistan" tvg-id="MAX.SPORT.1.CROATIA.HR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/maxsport1-crotia.png" group-title="Hırvatistan Kanalları",Max Sport 1 Croatia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzc5L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Hırvatça" tvg-country="Hırvatistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/maxsport2-crotia.png" group-title="Hırvatistan Kanalları",Max Sport 2 Croatia
+#EXTINF:-1 tvg-language="Hırvatça" tvg-country="Hırvatistan" tvg-id="MAX.SPORT.2.CROATIA.HR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/maxsport2-crotia.png" group-title="Hırvatistan Kanalları",Max Sport 2 Croatia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzgwL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Kanada" tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbc.png" group-title="Kanada Kanalları",CBC Canada
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODMyL21vbm8ubTN1OA==.m3u8
@@ -931,15 +917,15 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODM0L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Kanada" tvg-id="TVO.(TV.Ontario).HD.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tvo-ca.png" group-title="Kanada Kanalları",TVO CA
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODQyL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Katar" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/alkass-four.png" group-title="Katar Kanalları",Alkass Four
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Katar" tvg-id="ALKASS.FOUR.QA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/alkass-four.png" group-title="Katar Kanalları",Alkass Four
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzg0L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Katar" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/alkass-one.png" group-title="Katar Kanalları",Alkass One
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Katar" tvg-id="ALKASS.ONE.QA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/alkass-one.png" group-title="Katar Kanalları",Alkass One
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzgxL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Katar" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/alkass-three.png" group-title="Katar Kanalları",Alkass Three
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Katar" tvg-id="ALKASS.THREE.QA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/alkass-three.png" group-title="Katar Kanalları",Alkass Three
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzgzL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Katar" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/alkass-two.png" group-title="Katar Kanalları",Alkass Two
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Katar" tvg-id="ALKASS.TWO.QA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/alkass-two.png" group-title="Katar Kanalları",Alkass Two
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzgyL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Kolombiya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/win-sportsplus-columbia.png" group-title="Kolombiya Kanalları",Win Sports+ Columbia
+#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Kolombiya" tvg-id="WIN.SPORTS.COLUMBIA.CO" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/win-sportsplus-columbia.png" group-title="Kolombiya Kanalları",Win Sports+ Columbia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzkyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="Yunanca" tvg-country="Kıbrıs" tvg-id="Cytavision.Sports1.HD.cy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="Kıbrıs Kanalları",Cytavision Sports 1 Cyprus
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW05MTEvbW9uby5tM3U4.m3u8
@@ -957,27 +943,27 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW05MTcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Malayca" tvg-country="Malezya" tvg-id="Astro.Cricket.my" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-cricket.png" group-title="Malezya Kanalları",Astro Cricket
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Malayca" tvg-country="Malezya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-1.png" group-title="Malezya Kanalları",Astro SuperSport 1
+#EXTINF:-1 tvg-language="Malayca" tvg-country="Malezya" tvg-id="ASTRO.SUPERSPORT.1.MY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-1.png" group-title="Malezya Kanalları",Astro SuperSport 1
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMjMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Malayca" tvg-country="Malezya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-2.png" group-title="Malezya Kanalları",Astro SuperSport 2
+#EXTINF:-1 tvg-language="Malayca" tvg-country="Malezya" tvg-id="ASTRO.SUPERSPORT.2.MY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-2.png" group-title="Malezya Kanalları",Astro SuperSport 2
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Malayca" tvg-country="Malezya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-3.png" group-title="Malezya Kanalları",Astro SuperSport 3
+#EXTINF:-1 tvg-language="Malayca" tvg-country="Malezya" tvg-id="ASTRO.SUPERSPORT.3.MY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-3.png" group-title="Malezya Kanalları",Astro SuperSport 3
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMjUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Malayca" tvg-country="Malezya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-4.png" group-title="Malezya Kanalları",Astro SuperSport 4
+#EXTINF:-1 tvg-language="Malayca" tvg-country="Malezya" tvg-id="ASTRO.SUPERSPORT.4.MY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-4.png" group-title="Malezya Kanalları",Astro SuperSport 4
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMjYvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İspanyolca" tvg-country="Meksika" tvg-id="Azteca.(XHOR).mx" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/azteca-7.png" group-title="Meksika Kanalları",Azteca 7 MX
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04NDQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İspanyolca" tvg-country="Meksika" tvg-id="FoxSportsPremium(Spanish).mx" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-premium-mx.png" group-title="Meksika Kanalları",Fox Sports Premium MX
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MzAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Mısır" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ontime-sports.png" group-title="Mısır Kanalları",OnTime Sports
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Mısır" tvg-id="ONTIME.SPORTS.EG" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ontime-sports.png" group-title="Mısır Kanalları",OnTime Sports
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02MTEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Mısır" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ontime-sports-2.png" group-title="Mısır Kanalları",OnTime Sports 2
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Mısır" tvg-id="ONTIME.SPORTS.2.EG" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ontime-sports-2.png" group-title="Mısır Kanalları",OnTime Sports 2
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02MTIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Urduca" tvg-country="Pakistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/a-sport-pk.png" group-title="Pakistan Kanalları",A Sport PK
+#EXTINF:-1 tvg-language="Urduca" tvg-country="Pakistan" tvg-id="A.SPORT.PK.PK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/a-sport-pk.png" group-title="Pakistan Kanalları",A Sport PK
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yNjkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Urduca" tvg-country="Pakistan" tvg-id="PTV.Sports.pk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ptv-sports.png" group-title="Pakistan Kanalları",PTV Sports
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Urduca" tvg-country="Pakistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ten-sports-pk.png" group-title="Pakistan Kanalları",Ten Sports PK
+#EXTINF:-1 tvg-language="Urduca" tvg-country="Pakistan" tvg-id="TEN.SPORTS.PK.PK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ten-sports-pk.png" group-title="Pakistan Kanalları",Ten Sports PK
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NDEvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Lehçe" tvg-country="Polonya" tvg-id="CANAL+.Sport.5.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-5.png" group-title="Polonya Kanalları",CANAL+ SPORT 5 Poland
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NS9tb25vLm0zdTg=.m3u8
@@ -1085,61 +1071,59 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="Romence" tvg-country="Romanya" tvg-id="Digi.Sport.4.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-4.png" group-title="Romanya Kanalları",Digi Sport 4 Romania
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAzL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Romence" tvg-country="Romanya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/orange-sport-1-ro.png" group-title="Romanya Kanalları",Orange Sport 1 Romania
+#EXTINF:-1 tvg-language="Romence" tvg-country="Romanya" tvg-id="ORANGE.SPORT.1.ROMANIA.RO" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/orange-sport-1-ro.png" group-title="Romanya Kanalları",Orange Sport 1 Romania
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aWtpbmV3Lm5ld2tzby5ydS93aWtpL3ByZW1pdW00MzkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Romence" tvg-country="Romanya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/orange-sport-2-ro.png" group-title="Romanya Kanalları",Orange Sport 2 Romania
+#EXTINF:-1 tvg-language="Romence" tvg-country="Romanya" tvg-id="ORANGE.SPORT.2.ROMANIA.RO" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/orange-sport-2-ro.png" group-title="Romanya Kanalları",Orange Sport 2 Romania
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aWtpbmV3Lm5ld2tzby5ydS93aWtpL3ByZW1pdW00NDAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="Romence" tvg-country="Romanya" tvg-id="Prima.Sport.1.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/prima-sport-1-ro.png" group-title="Romanya Kanalları",Prima Sport 1
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNTgzL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="Romence" tvg-country="Romanya" tvg-id="Prima.TV.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/prima-tv-ro.png" group-title="Romanya Kanalları",Prima TV RO
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aWtpbmV3Lm5ld2tzby5ydS93aWtpL3ByZW1pdW04NDMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Rusça" tvg-country="Rusya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-boets-ru.png" group-title="Rusya Kanalları",Match Boets Russia
-https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzk1L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Rusça" tvg-country="Rusya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-football-1-ru.png" group-title="Rusya Kanalları",Match Football 1 Russia
+#EXTINF:-1 tvg-language="Rusça" tvg-country="Rusya" tvg-id="MATCH.FOOTBALL.1.RUSSIA.RU" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-football-1-ru.png" group-title="Rusya Kanalları",Match Football 1 Russia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Rusça" tvg-country="Rusya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-football-2-ru.png" group-title="Rusya Kanalları",Match Football 2 Russia
+#EXTINF:-1 tvg-language="Rusça" tvg-country="Rusya" tvg-id="MATCH.FOOTBALL.2.RUSSIA.RU" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-football-2-ru.png" group-title="Rusya Kanalları",Match Football 2 Russia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Rusça" tvg-country="Rusya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-football-3-ru.png" group-title="Rusya Kanalları",Match Football 3 Russia
+#EXTINF:-1 tvg-language="Rusça" tvg-country="Rusya" tvg-id="MATCH.FOOTBALL.3.RUSSIA.RU" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-football-3-ru.png" group-title="Rusya Kanalları",Match Football 3 Russia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Rusça" tvg-country="Rusya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-premier-ru.png" group-title="Rusya Kanalları",Match Premier Russia
+#EXTINF:-1 tvg-language="Rusça" tvg-country="Rusya" tvg-id="MATCH.PREMIER.RUSSIA.RU" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-premier-ru.png" group-title="Rusya Kanalları",Match Premier Russia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NzMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Rusça" tvg-country="Rusya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-tv-ru.png" group-title="Rusya Kanalları",Match TV Russia
+#EXTINF:-1 tvg-language="Rusça" tvg-country="Rusya" tvg-id="MATCH.TV.RUSSIA.RU" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-tv-ru.png" group-title="Rusya Kanalları",Match TV Russia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMjcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Suudi Arabistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Suudi Arabistan Kanalları",SSC Sport 1
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Suudi Arabistan" tvg-id="SSC.SPORT.1.SA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Suudi Arabistan Kanalları",SSC Sport 1
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02MTQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Suudi Arabistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Suudi Arabistan Kanalları",SSC Sport 3
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Suudi Arabistan" tvg-id="SSC.SPORT.3.SA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Suudi Arabistan Kanalları",SSC Sport 3
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02MTYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Suudi Arabistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Suudi Arabistan Kanalları",SSC Sport 4
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Suudi Arabistan" tvg-id="SSC.SPORT.4.SA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Suudi Arabistan Kanalları",SSC Sport 4
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02MTcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Arapça" tvg-country="Suudi Arabistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Suudi Arabistan Kanalları",SSC Sport 5
+#EXTINF:-1 tvg-language="Arapça" tvg-country="Suudi Arabistan" tvg-id="SSC.SPORT.5.SA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Suudi Arabistan Kanalları",SSC Sport 5
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02MTgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1-premium.png" group-title="Sırbistan Kanalları",Arena Sport 1 Premium
+#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="ARENA.SPORT.1.PREMIUM.RS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1-premium.png" group-title="Sırbistan Kanalları",Arena Sport 1 Premium
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1.png" group-title="Sırbistan Kanalları",Arena Sport 1 Serbia
+#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="ARENA.SPORT.1.SERBIA.RS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1.png" group-title="Sırbistan Kanalları",Arena Sport 1 Serbia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MjkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-2-premium.png" group-title="Sırbistan Kanalları",Arena Sport 2 Premium
+#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="ARENA.SPORT.2.PREMIUM.RS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-2-premium.png" group-title="Sırbistan Kanalları",Arena Sport 2 Premium
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-2.png" group-title="Sırbistan Kanalları",Arena Sport 2 Serbia
+#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="ARENA.SPORT.2.SERBIA.RS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-2.png" group-title="Sırbistan Kanalları",Arena Sport 2 Serbia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-3-premium.png" group-title="Sırbistan Kanalları",Arena Sport 3 Premium
+#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="ARENA.SPORT.3.PREMIUM.RS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-3-premium.png" group-title="Sırbistan Kanalları",Arena Sport 3 Premium
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-3.png" group-title="Sırbistan Kanalları",Arena Sport 3 Serbia
+#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="ARENA.SPORT.3.SERBIA.RS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-3.png" group-title="Sırbistan Kanalları",Arena Sport 3 Serbia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MzEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-4.png" group-title="Sırbistan Kanalları",Arena Sport 4 Serbia
+#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="ARENA.SPORT.4.SERBIA.RS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-4.png" group-title="Sırbistan Kanalları",Arena Sport 4 Serbia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01ODEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sport-serbia.png" group-title="Sırbistan Kanalları",Nova Sport Serbia
+#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="NOVA.SPORT.SERBIA.RS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sport-serbia.png" group-title="Sırbistan Kanalları",Nova Sport Serbia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01ODIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-1-serbia.png" group-title="Sırbistan Kanalları",Sport Klub 1 Serbia
+#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="SPORT.KLUB.1.SERBIA.RS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-1-serbia.png" group-title="Sırbistan Kanalları",Sport Klub 1 Serbia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="Sırbistan Kanalları",Sport Klub 2 Serbia
+#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="SPORT.KLUB.2.SERBIA.RS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="Sırbistan Kanalları",Sport Klub 2 Serbia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-3-serbia.png" group-title="Sırbistan Kanalları",Sport Klub 3 Serbia
+#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="SPORT.KLUB.3.SERBIA.RS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-3-serbia.png" group-title="Sırbistan Kanalları",Sport Klub 3 Serbia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-4-serbia.png" group-title="Sırbistan Kanalları",Sport Klub 4 Serbia
+#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="SPORT.KLUB.4.SERBIA.RS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-4-serbia.png" group-title="Sırbistan Kanalları",Sport Klub 4 Serbia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTA0L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-hd-serbia.png" group-title="Sırbistan Kanalları",Sport Klub HD Serbia
+#EXTINF:-1 tvg-language="Sırpça" tvg-country="Sırbistan" tvg-id="SPORT.KLUB.HD.SERBIA.RS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-hd-serbia.png" group-title="Sırbistan Kanalları",Sport Klub HD Serbia
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-country="URUGUAY" tvg-id="VTV.+.HD.uy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vtvplus-uruguay.png" group-title="URUGUAY Kanalları",VTV+ Uruguay
+#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Uruguay" tvg-id="VTV.+.HD.uy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vtvplus-uruguay.png" group-title="Uruguay Kanalları",VTV+ Uruguay
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzkxL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İngilizce" tvg-country="Yeni Zelanda" tvg-id="Sky.Sport.1.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-1-nz.png" group-title="Yeni Zelanda Kanalları",Sky Sport 1 NZ
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTg4L21vbm8ubTN1OA==.m3u8
@@ -1201,9 +1185,9 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjM4L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="Yunanca" tvg-country="Yunanistan" tvg-id="Novasports.Start.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sports-start-gr.png" group-title="Yunanistan Kanalları",Nova Sports Start Greece
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjM3L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="İrlanda" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/premier-sports-ireland-1.png" group-title="İrlanda Kanalları",Premier Sports Ireland 1
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="İrlanda" tvg-id="PREMIER.SPORTS.IRELAND.1.IE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/premier-sports-ireland-1.png" group-title="İrlanda Kanalları",Premier Sports Ireland 1
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İngilizce" tvg-country="İrlanda" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/premier-sports-ireland-2.png" group-title="İrlanda Kanalları",Premier Sports Ireland 2
+#EXTINF:-1 tvg-language="İngilizce" tvg-country="İrlanda" tvg-id="PREMIER.SPORTS.IRELAND.2.IE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/premier-sports-ireland-2.png" group-title="İrlanda Kanalları",Premier Sports Ireland 2
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03OTkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İspanyolca" tvg-country="İspanya" tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vamos.png" group-title="İspanya Kanalları",#Vamos Spain
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MjEvbW9uby5tM3U4.m3u8
@@ -1255,9 +1239,9 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İspanyolca" tvg-country="İspanya" tvg-id="MovistarPlusplus(src01).es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/0-spain.png" group-title="İspanya Kanalları",Movistar Plus+ (#0 Spain)
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İspanyolca" tvg-country="İspanya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/movistar-supercopa.png" group-title="İspanya Kanalları",Movistar Supercopa de Espa�a
+#EXTINF:-1 tvg-language="İspanyolca" tvg-country="İspanya" tvg-id="MOVISTAR.SUPERCOPA.DE.ESPAA.ES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/movistar-supercopa.png" group-title="İspanya Kanalları",Movistar Supercopa de Espa�a
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İspanyolca" tvg-country="İspanya" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mundotoro-tv.png" group-title="İspanya Kanalları",Mundotoro TV Spain
+#EXTINF:-1 tvg-language="İspanyolca" tvg-country="İspanya" tvg-id="MUNDOTORO.TV.SPAIN.ES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mundotoro-tv.png" group-title="İspanya Kanalları",Mundotoro TV Spain
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NDkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İspanyolca" tvg-country="İspanya" tvg-id="RealMadridTV(Spanish).es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/real-madrid-tv-spain.png" group-title="İspanya Kanalları",Real Madrid TV Spain
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTIzL21vbm8ubTN1OA==.m3u8
@@ -1269,17 +1253,17 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTMyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-language="İspanyolca" tvg-country="İspanya" tvg-id="Teledeporte.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/teledeporte-spain.png" group-title="İspanya Kanalları",Teledeporte Spain (TDP)
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTI5L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-language="İbranice" tvg-country="İsrail" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/channel-11-israel.png" group-title="İsrail Kanalları",Channel 11 Israel
+#EXTINF:-1 tvg-language="İbranice" tvg-country="İsrail" tvg-id="CHANNEL.11.ISRAEL.IL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/channel-11-israel.png" group-title="İsrail Kanalları",Channel 11 Israel
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01NDgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İbranice" tvg-country="İsrail" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/channel-12-israel.png" group-title="İsrail Kanalları",Channel 12 Israel
+#EXTINF:-1 tvg-language="İbranice" tvg-country="İsrail" tvg-id="CHANNEL.12.ISRAEL.IL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/channel-12-israel.png" group-title="İsrail Kanalları",Channel 12 Israel
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01NDkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İbranice" tvg-country="İsrail" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/channel-13-israel.png" group-title="İsrail Kanalları",Channel 13 Israel
+#EXTINF:-1 tvg-language="İbranice" tvg-country="İsrail" tvg-id="CHANNEL.13.ISRAEL.IL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/channel-13-israel.png" group-title="İsrail Kanalları",Channel 13 Israel
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01NTEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İbranice" tvg-country="İsrail" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/channel-14-israel.png" group-title="İsrail Kanalları",Channel 14 Israel
+#EXTINF:-1 tvg-language="İbranice" tvg-country="İsrail" tvg-id="CHANNEL.14.ISRAEL.IL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/channel-14-israel.png" group-title="İsrail Kanalları",Channel 14 Israel
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01NTIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İbranice" tvg-country="İsrail" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/channel-9-israel.png" group-title="İsrail Kanalları",Channel 9 Israel
+#EXTINF:-1 tvg-language="İbranice" tvg-country="İsrail" tvg-id="CHANNEL.9.ISRAEL.IL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/channel-9-israel.png" group-title="İsrail Kanalları",Channel 9 Israel
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01NDYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İbranice" tvg-country="İsrail" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hot3-israel.png" group-title="İsrail Kanalları",HOT3 Israel
+#EXTINF:-1 tvg-language="İbranice" tvg-country="İsrail" tvg-id="HOT3.ISRAEL.IL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hot3-israel.png" group-title="İsrail Kanalları",HOT3 Israel
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NTMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İbranice" tvg-country="İsrail" tvg-id="ONE.HD.il" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/one-1-hd-israel.png" group-title="İsrail Kanalları",ONE 1 HD Israel
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01NDEvbW9uby5tM3U4.m3u8
@@ -1393,5 +1377,5 @@ https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04ODEvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-language="İzlandaca" tvg-country="İzlanda" tvg-id="vodasport(src01).is" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vodafone-sport.png" group-title="İzlanda Kanalları",Vodafone Sport
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNjAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Şili" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-hd-chile.png" group-title="Şili Kanalları",TNT Sports HD Chile
+#EXTINF:-1 tvg-language="İspanyolca" tvg-country="Şili" tvg-id="TNT.SPORTS.HD.CHILE.CL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-hd-chile.png" group-title="Şili Kanalları",TNT Sports HD Chile
 https://kerimmkirac-daddylive.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQyL21vbm8ubTN1OA==.m3u8
