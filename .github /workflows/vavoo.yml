@@ -1,4 +1,4 @@
-name: Rec Tv Kontrol
+name: Vavoo Kontrol
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:        
 
 jobs:
-  update-rectv:
+  update-vavoo:
     runs-on: ubuntu-latest
 
     permissions:
@@ -25,14 +25,16 @@ jobs:
           python-version: '3.x'
 
       - name: Gerekli paketleri yükle
-        run: pip install requests cloudscraper
+        run: pip install requests
 
-      
+      - name: Alive 1
+        run: curl https://kerimmkirac-vavoo.hf.space/
 
-      - name: Rectv
-        run: python rectv.py
+      - name: Vavoo Tr
+        run: python vavoo.py
 
-      
+      - name: Vavoo All
+        run: python vavooall.py
 
       - name: Değişiklik kontrolü
         id: git-check
@@ -48,6 +50,6 @@ jobs:
       - name: Commit ve push 
         if: steps.git-check.outputs.changed == 'true'
         run: |
-          git add Kanallar/kerim.m3u
-          git commit -m " Kanallar/kerim.m3u güncellendi - $(date +'%Y-%m-%d %H:%M:%S')"
+          git add vavoo.m3u vavooall.m3u
+          git commit -m "🔁 M3U dosyaları güncellendi - $(date +'%Y-%m-%d %H:%M:%S')"
           git push origin HEAD:main
